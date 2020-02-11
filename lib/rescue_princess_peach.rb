@@ -2,7 +2,6 @@ require 'pry'
 def rescue_princess_peach
   status = "Hooray! Mario has rescued Princess Peach."
   binding.pry
-
   puts status
 end
 
